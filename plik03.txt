@@ -4,3 +4,4 @@ Uproszczeniu GUI
 easierApp
 zmiana08
 zmiana09
+zmiana12
