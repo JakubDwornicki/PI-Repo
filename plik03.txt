@@ -8,3 +8,4 @@ zmiana10
 zmiana11
 zmiana12
 zmiana13
+zmiana14
